@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm alba</h1>
+
 <h3 align="center">Web developer skilled in HTML, CSS, and JavaScript, experienced with React and Next.js for building optimized and responsive user interfaces.
 Proficient in UI/UX design and Figma, performance optimization, responsive layout implementation, Git version control, and API integration for front-end development.
 😉</h3>
 
-<img align="right" alt="alba" width="400"  src="https://cdn.dribbble.com/userupload/23590726/file/original-60aae7177741ab5a76226d3513b76b7e.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezaalba&label=Profile%20views&color=0e75b6&style=flat" alt="alirezaalba" /> </p>
