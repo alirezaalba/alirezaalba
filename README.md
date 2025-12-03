@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm alba</h1>
-<h3 align="center">Web Developer skilled in designing, developing, and deploying responsive web interfaces from concept to production. Proficient in HTML, CSS, JavaScript and familiar with modern web frameworks and libraries. Experienced in UI/UX design using Figma and converting design prototypes into clean, scalable code. Strong understanding of Git, version control, SEO principles, APIs and Agile workflows. Fast learner with a focus on writing maintainable code and contributing to innovative, high-performance web projects😉</h3>
+<h3 align="center">Web developer skilled in HTML, CSS, and JavaScript, experienced with React and Next.js for building optimized and responsive user interfaces.
+Proficient in UI/UX design and Figma, performance optimization, responsive layout implementation, Git version control, and API integration for front-end development.
+😉</h3>
 
 <img align="right" alt="alba" width="400"  src="https://cdn.dribbble.com/userupload/23590726/file/original-60aae7177741ab5a76226d3513b76b7e.gif">
 
@@ -25,7 +27,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alirezaalba&show_icons=true&locale=en&layout=compact" alt="alirezaalba" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alirezaalba&show_icons=true&locale=en" alt="alirezaalba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezaalba&" alt="alirezaalba" /></p>
 
