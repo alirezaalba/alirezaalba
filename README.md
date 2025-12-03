@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm alba</h1>
 <h3 align="center">Web Developer skilled in designing, developing, and deploying responsive web interfaces from concept to production. Proficient in HTML, CSS, JavaScript and familiar with modern web frameworks and libraries. Experienced in UI/UX design using Figma and converting design prototypes into clean, scalable code. Strong understanding of Git, version control, SEO principles, APIs and Agile workflows. Fast learner with a focus on writing maintainable code and contributing to innovative, high-performance web projects😉</h3>
 
-<img align="right" alt="alba" width="400" src="https://cdn.dribbble.com/userupload/23590726/file/original-60aae7177741ab5a76226d3513b76b7e.gif">
+<img align="right" alt="alba" width="400"  src="https://cdn.dribbble.com/userupload/23590726/file/original-60aae7177741ab5a76226d3513b76b7e.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezaalba&label=Profile%20views&color=0e75b6&style=flat" alt="alirezaalba" /> </p>
 
